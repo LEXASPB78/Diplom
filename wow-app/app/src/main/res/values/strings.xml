@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Прогноз погоды</string>
+    <string name="hello_info">Добро поаловать!</string>
+    <string name="hint_user_field">Введите название города</string>
+    <string name="main_button">Прогноз погоды</string>
+    <string name="not_valid_input">Введите текст</string>
+    <string name="wait_message">Подождите…</string>
+    <string name="error_not_found_city">Город не найден</string>
+    <string name="error_not_have_info">"Извинте, по вашему городу нету прогноза"</string>
+</resources>
